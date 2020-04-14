@@ -7,7 +7,7 @@ Version 2 re-implements the API such that it more closely follows PSR-2.
 We have also purged those ugly tests and have started using PHPUnit and Composer.
 
 #### 2020-04-14
-Removed namespaces, implemented return type hinting and PHPDoc
+Removed namespaces, implemented return type hinting and PHPDoc, see additional license
 
 ## How can I use it?
 This software is put in the public domain. Why? Because I can't be bothered chasing it everywhere. Call me lazy, eh.
